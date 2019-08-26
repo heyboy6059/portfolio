@@ -18,6 +18,12 @@ class Landing extends Component {
                             <p>
                                 HTML/CSS | JavaScript | React | Python
                             </p>
+
+                            <div>
+                                <a href="http://google.com" rel="noopener noreferrer" target="_blank">
+                                    <i className="fa fa-linkedin-square" aria-hidden="true"/>
+                                </a>
+                            </div>
                         </div>
 
                     </Cell>
